@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #f8f8f8;
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  text-align: center; /* Center-align the text inside the nav element */
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #000;
+}
+
+section {
+  margin: 20px 0;
+}
+
+footer {
+  background-color: #f8f8f8;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+h2, h3 {
+  text-align: center
+}
+p {
+  text-align: center
+}
+a {
+  text-align: center;
+}
